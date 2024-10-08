@@ -1,4 +1,4 @@
-<h3 align="center">LeetCode: [abdullohtariq](https://leetcode.com/u/abdullohtariq/)</h3>
+<h3 align="center">LeetCode:</h3> [abdullohtariq](https://leetcode.com/u/abdullohtariq/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullohtariq&label=Profile%20views&color=0e75b6&style=flat" alt="abdullohtariq" /> </p>
 
